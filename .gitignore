@@ -1,0 +1,15 @@
+# .gitignore
+
+# common
+*.log
+
+# pycharm
+.idea/
+
+# folders
+archive/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
